@@ -12,9 +12,13 @@ We were asked to make an application for a hypothetical hotel, called ASDF Palac
 
 # Technologies:
 MySQL Workbench 8.0 CE for the creation of the database.
+
 Apache Web Server 2.4 in order to connect the database with the frontend.
+
 PHP 8.0 for the backend of the application.
+
 Mockaroo for the automated generation of data (https://www.mockaroo.com/).
+
 
 # Entity Relation Diagram: 
 <p align="center">
