@@ -12,7 +12,7 @@ We were asked to make an application for a hypothetical hotel, called ASDF Palac
 
 # Entity Relation Diagram: 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/62433719/180456176-8794b127-80b6-4925-9253-e898153db8bd.png" width="1000" />
+  <img src="https://user-images.githubusercontent.com/62433719/180456176-8794b127-80b6-4925-9253-e898153db8bd.png" width="1080" />
 </p>
 
 # Creation Team:
