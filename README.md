@@ -1,7 +1,7 @@
 # Databases-ASDF-Palace
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/62433719/180450844-6d606898-0aff-408f-ba18-b92657d5ed77.png" alt="Databases's custom image" height="600" width="600" />
+  <img src="https://user-images.githubusercontent.com/62433719/180450844-6d606898-0aff-408f-ba18-b92657d5ed77.png" alt="Databases's custom image" width="400" />
 </p>
 
 # General information about this project of Databases:
@@ -12,7 +12,7 @@ We were asked to make an application for a hypothetical hotel, called ASDF Palac
 
 # Entity Relation Diagram: 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/62433719/180456176-8794b127-80b6-4925-9253-e898153db8bd.png" width="400" />
+  <img src="https://user-images.githubusercontent.com/62433719/180456176-8794b127-80b6-4925-9253-e898153db8bd.png" width="700" />
 </p>
 
 # Creation Team:
