@@ -17,7 +17,7 @@ Develop an application the ASDF Palace hotel. Τhe hotel provides services such 
 
 3. PHP 8.0 for the backend of the application. (https://www.php.net/releases/8.0/en.php)
 
-4. Mockaroo for the automated generation of data (https://www.mockaroo.com/).
+4. Mockaroo for the automated generation of data. (https://www.mockaroo.com/)
 
 
 ## Entity Relation Diagram: 
