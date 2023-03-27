@@ -5,7 +5,7 @@
 </p>
 
 ## Project description:
-Develop an application for the ASDF Palace hotel. Τhe hotel provides services such as rooms, bars, restaurants etc. The COVID-19 pandemic has led the management team to adopt safety health protocols in order to protect the hotel's customers and diminish the virus cases. For this reason, all the customers as soon as they arrive to the ASDF Palace, are given a NFC-enabled bracelet which is exclusively associated with them. At the same time, all the services which the guests use, are tracked via the NFC-bracelet and the virus cases are spotted immediately. Last but not least, each customer has its customer card as in any ordinary hotel.
+Develop an application for the safety of ASDF Palace hotel's customers. Τhe hotel provides services such as rooms, bars, restaurants etc. The COVID-19 pandemic has led the management team to adopt safety health protocols in order to protect the hotel's customers and diminish the virus cases. For this reason, all the customers as soon as they arrive to the ASDF Palace, are given a NFC-enabled bracelet which is exclusively associated with them. At the same time, all the services which the guests use, are tracked via the NFC-bracelet and the virus cases are spotted immediately. Last but not least, each customer has its customer card as in any ordinary hotel.
 
 ## Technologies:
 1. [MySQL Workbench 8.0 CE](https://www.mysql.com/products/workbench/) for the creation of the database. 
