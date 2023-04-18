@@ -22,14 +22,19 @@ Develop an application for the safety of ASDF Palace hotel's customers. Τhe hot
   <img src="https://user-images.githubusercontent.com/62433719/180456176-8794b127-80b6-4925-9253-e898153db8bd.png" width="1080" />
 </p>
 
-## Creation Team:
+## Contributors:
 
-- [Giorgos Bratsiotis](https://github.com/ICantChooseAName)
-
-- [Simeon Porgiotis](https://github.com/el18053)
-
-- [Vikentios Vitalis](https://github.com/VikentiosVitalis)
-
-- [Stefanos Tsolos](https://github.com/stefanostsolos)
-
-
+<p align="center">
+    <a href="https://github.com/ICantChooseAName">
+      <img src="/etc/giorgos.png" width="10%">
+    </a>  
+    <a href="https://github.com/el18053">
+      <img src="/etc/simos.png" width="10%">
+    </a>  
+   <a href="https://github.com/VikentiosVitalis">
+      <img src="/etc/vikentios.png" width="10%">
+    </a>  
+    <a href="https://github.com/stefanostsolos">
+      <img src="/etc/stefanos.png" width="10%">
+    </a> 
+<p>
